@@ -1,6 +1,6 @@
 ## Eae eu sou o Duzz, desenvolvedor de software e entusiasta de segurança de redes!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuzzDev&show_icons=true&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuzzDev)](https://github.com/DuzzDev/github-readme-stats)
 
 <div style="display: inline_block"><br>
